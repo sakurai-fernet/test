@@ -47,6 +47,8 @@
         ]
     },
     "config": {
-        "preferred-install": "dist"
+        "preferred-install": "dist",
+        "fixed-install": "migratable",
+        "deploy-install": "upsert"
     }
 }
